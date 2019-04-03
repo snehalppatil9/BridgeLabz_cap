@@ -1,0 +1,68 @@
+{   
+    "Rice": [
+        {
+            "name": "Basmati",
+            "weight" : 5,
+            "price" : 80
+        },
+        {
+            "name": "sonamasuri",
+            "weight" : 15,
+            "price" : 120           
+        },
+        {
+            "name": "steamcolam",
+            "weight" : 25,
+            "price" : 95            
+        },
+        {
+            "name": "Brownponni",
+            "weight" : 5,
+            "price" : 80            
+        }
+    ],
+    "Pulses":[
+        {
+            "name": "chickpeas",
+            "weight" : 5,
+            "price" : 80
+        },
+        {
+            "name": "Gram",
+            "weight" : 15,
+            "price" : 120           
+        },
+        {
+            "name": "green_mung_bean",
+            "weight" : 25,
+            "price" : 95            
+        },
+        {
+            "name": "read_chola",
+            "weight" : 5,
+            "price" : 80            
+        }
+    ],
+    "Wheat":[
+        {
+            "name": "Aashirwaad",
+            "weight" : 5,
+            "price" : 38
+        },
+        {
+            "name": "Mac_fresh",
+            "weight" : 10,
+            "price" : 45           
+        },
+        {
+            "name": "wheat_Grain",
+            "weight" : 25,
+            "price" : 23            
+        },
+        {
+            "name": "Miling_Wheat",
+            "weight" : 5,
+            "price" : 35            
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "stock1": [
+        {
+            "stockName" : "BridgeLabz",
+            "shares": 5,
+            "sharePrice": 4000
+        },
+
+        {
+            "stockName" : "Capgemini",
+            "shares": 25,
+            "sharePrice": 5000
+        },
+
+        {
+            "stockName" : "TCS",
+            "shares": 15,
+            "sharePrice": 4400
+        },
+
+        {
+            "stockName" : "Syntel",
+            "shares": 35,
+            "sharePrice": 5200
+        },
+
+        {
+            "stockName" : "Google",
+            "shares": 105,
+            "sharePrice": 7500
+        }
+    ]
+}

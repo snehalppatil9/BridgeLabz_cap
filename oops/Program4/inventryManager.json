@@ -1,0 +1,28 @@
+
+
+{
+    "Stock1":[
+
+        {
+            "stockName" : "SBI",
+            "shares": 25,
+            "sharePrice": 5500
+        },
+
+    
+        {
+            
+            "stockName" : "BankOfBaroda",
+            "shares": 25,
+            "sharePrice": 5000
+        },
+    
+        {
+            
+            "stockName" : "corporationBank",
+            "shares": 25,
+            "sharePrice": 6800
+        }
+
+    ]
+}

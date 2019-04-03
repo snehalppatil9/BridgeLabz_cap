@@ -1,0 +1,50 @@
+{
+    "Doctor": [
+        {
+            "Name": "Dr.shetty",
+            "Id": "1",
+            "Specialisation": "Cardiologist",
+            "noOfPatient": 0,
+            "Availability": "AM"
+        },
+        {
+            "Name": "Dr.Jadhav",
+            "Id": "2",
+            "Specialisation": "Neurologist",
+            "noOfPatient": 0,
+            "Availability": "Both"
+        },
+        {
+            "Name": "Dr.Supriya",
+            "Id": "3",
+            "Specialisation": "Ophthalmologist ",
+            "noOfPatient": 0,
+            "Availability": "Both"
+        },
+        {
+            "Name": "Dr.Khushbu",
+            "Id": "4",
+            "Specialisation": "Gynacologist",
+            "noOfPatient": 0,
+            "Availability": "PM"
+        }
+    ],
+    "Patient": [
+        {
+            "Name": "Ankita",
+            "Id": "1",
+            "PhoneNumber": 8945235612,
+            "Age": 28,
+            "AppointmentFrom": "Dr.Khushbu",
+            "OnTheDayOf": 8
+        },
+        {
+            "Name": "Shital",
+            "Id": 83238,
+            "PhoneNumber": 8745632150,
+            "Age": 56,
+            "AppointmentFrom": "Dr.Patil",
+            "OnTheDayOf": 31
+        }
+    ]
+}
